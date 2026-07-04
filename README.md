@@ -5,4 +5,4 @@ Using a https://tindeq.com/product/progressor/ to track my training metrics.
 
 Porting https://tindeq.com/progressor_api/ python example to C#.
 
-Will visualise of my metrics later.... Probably with Blazor Idk.
+Will visualise my metrics later.... Probably with Blazor Idk.
