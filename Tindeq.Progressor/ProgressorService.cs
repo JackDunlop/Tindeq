@@ -12,7 +12,7 @@ namespace Tindeq.Progressor
         private GattDeviceService? _service;
 
         private GattCharacteristic? _dataCharacteristic;
-        private GattCharacteristic? _controlCharacteristic; // idk if ill use this?
+        private GattCharacteristic? _controlCharacteristic;
 
         private Guid DataServiceUuid = Guid.Parse("7e4e1702-1ea6-40c9-9dcc-13d34ffead57");
         private Guid ControlPointServiceUuid = Guid.Parse("7e4e1703-1ea6-40c9-9dcc-13d34ffead57");
