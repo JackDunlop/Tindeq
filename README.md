@@ -4,8 +4,6 @@ A small .NET library for communicating with the [Tindeq Progressor](https://tind
 
 Porting the [Progressor API](https://tindeq.com/progressor_api/) Python example to C#.
 
-## Projects
-
 ## Supported Commands
 
 | Command | Description |
