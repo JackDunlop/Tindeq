@@ -1,4 +1,4 @@
 <Solution>
   <Project Path="Tindeq.Progressor/Tindeq.Progressor.csproj" Id="bc65b34e-c943-45a9-ab4e-a29944b2fb27" />
-  <Project Path="Tindeq/Tindeq.csproj" />
+  <Project Path="Tindeq/Tindeq.Example.csproj" />
 </Solution>

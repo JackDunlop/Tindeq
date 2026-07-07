@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Tindeq.Progressor
+namespace Tindeq.Progressor.Enum
 {
-    public enum Response
+    public enum ProgessorResponse
     {
         RES_CMD_RESPONSE = 0, // Responmse to sample battery voltage 0x6F
         RES_WEIGHT_MEAS = 1, // Weight measurement. Each measurement is sent together with a teimestamp where the timestamp in the number of microseconds since the measurement was started.

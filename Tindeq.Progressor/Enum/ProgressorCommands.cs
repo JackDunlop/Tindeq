@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Tindeq.Progressor
+namespace Tindeq.Progressor.Enum
 {
-    public enum Commands
+    public enum ProgressorCommands
     {
         CMD_TARE_SCALE = 100, // Command used to zsero weight when no load is applied
         CMD_START_WEIGHT_MEAS = 101, // Start continouous measurement. Smaple rate is 80 Hz

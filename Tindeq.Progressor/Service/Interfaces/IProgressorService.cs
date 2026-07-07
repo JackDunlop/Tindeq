@@ -1,6 +1,6 @@
 ﻿using Windows.Devices.Bluetooth.GenericAttributeProfile;
 
-namespace Tindeq.Progressor.Interfaces
+namespace Tindeq.Progressor.Service.Interfaces
 {
     internal interface IProgressorService
     {
